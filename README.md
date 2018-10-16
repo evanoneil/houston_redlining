@@ -1,4 +1,4 @@
-# houston_redlining
+# Houston Redlining Map
 
 I created this with the Click2shp tool (http://gis.ucla.edu/apps/click2shp/), making my best informed assumptions about how to translate the HOLC map (http://offcite.org/hazardous-the-redlining-of-houston-neighborhoods/) from 1930 to today's Houston. Then I used the SHP to GEOJSON converter (https://mygeodata.cloud/converter/shp-to-geojson) to compile all of these into the geojson object in this repo. 
 
